@@ -38,4 +38,5 @@ After reduax??
 
 2-day second day
 
-
+npx -node package excutor(utility-softwore)
+npm -node package manger=>
