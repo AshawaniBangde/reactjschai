@@ -61,4 +61,9 @@ day -3 third day
 =>vite project
 
 => every letter should be capital ...
-=>
+=> react+vite component name is alwayes capital
+=> funcation name alwayes capital
+=> componet me file name jsx hona chahiye.
+=> 
+
+
