@@ -39,4 +39,12 @@ After reduax??
 2-day second day
 
 npx -node package excutor(utility-softwore)
-npm -node package manger=>
+npm -node package manger=>(-g globally install)
+
+
+=>react se boht sare folder and dependie hai or time taking bhi hai isliye vite se try krte hai
+=>isme time bhi kam lgta project ko install krne me??
+
+
+how to create vite+reacte aap
+=>npm create vite@latest 
