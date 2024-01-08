@@ -55,3 +55,10 @@ dom(documnet object modal)
 => react jo hai apna dom banata hai jise react dom khte hai..jo dom se compair krke work krta hai
 => reactdom->react apne aap me ek khud ka dom bananta jise vertiual dom khte hai
 => 
+
+
+day -3 third day
+=>vite project
+
+=> every letter should be capital ...
+=>
