@@ -1,4 +1,6 @@
  function customRender(reactElement,Conatainer){
+
+
     const domElement = document.createElement
     (reactElement.type)
     domElement.innerHTML= reactElement.children
@@ -6,6 +8,8 @@
     domElement.setAttribute('target','reactElement.props.target')
 
     Conatainer.appendChild(domElement)
+
+
  }
  
  
