@@ -48,3 +48,10 @@ npm -node package manger=>(-g globally install)
 
 how to create vite+reacte aap
 =>npm create vite@latest 
+
+
+
+dom(documnet object modal)
+=> react jo hai apna dom banata hai jise react dom khte hai..jo dom se compair krke work krta hai
+=> reactdom->react apne aap me ek khud ka dom bananta jise vertiual dom khte hai
+=> 
