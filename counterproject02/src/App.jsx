@@ -18,7 +18,9 @@ export default function App() {
 
   }
   const removeValue = () =>{
+    if(count>0){
     setcount(count-1);
+    }
   }
   return (
     <>    
