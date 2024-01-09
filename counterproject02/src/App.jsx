@@ -4,7 +4,7 @@ import { useState } from 'react';
 export default function App() {
 
   const[count,setcount] = useState(15)
-  const[remove,setremove] = useState()
+  
 
   // let counter = 15;
   const addValue = () => {
@@ -18,7 +18,7 @@ export default function App() {
 
   }
   const removeValue = () =>{
-    setremove(remove-1);
+    setcount(count-1);
   }
   return (
     <>    

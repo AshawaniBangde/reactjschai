@@ -74,7 +74,8 @@ custom se create krna project
 day -5
 why you need hooks??
 
-
+useeffect,usecontext,usestate
+this type of hooks
 
 
 
