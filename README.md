@@ -105,4 +105,8 @@ props => properties(object)
 isliye ye dependies hai.
 =>npx tailwindcss init -p ....tailwind.config file bna ke deta hai
 
+=> https://www.devui.io/
+components ka code uthane ke liye
 
+=> props = props,  componets ko bnata tha resuable,,,ek bar card bna liya usko bar bar use kr skte hai...
+=> 
