@@ -81,5 +81,11 @@ this type of hooks
 assignment - pe na jaye
 
 
+day -6 virtual dom
+=> virtual dom abhi ke date me use nhi krte but virtual dom puchte apke basic clear ho.
+=> create root -jo method hai behind the seen kaise kam krta hai,behind the seen ek dom crete krta hai or browser dom or virtual dom ko comaipre krta hai,,,or uni chiz ko update krta hai jo actual me ui me update krta hai hai,,,but jo dom hota vo pure page ko load krta ,,,or ise dom khte hai.
+=> virtaul dom - me kya hota ha ise sara hum track kr skte hai,,,jo jo value chnage hui hai ...use dom se nikal ke change kr do,,,..that is called as virutal dom...
+=> 
+
 
 
