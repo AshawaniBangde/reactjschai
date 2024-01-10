@@ -9,7 +9,8 @@ export default function App() {
   let array=[1,2,3,4]
   return (
     <>
-    <Card username="geeta" some={myObject} see={array} />
+    <Card username="geeta" text="clickme"some={myObject} see={array} />
+
     </>
   )
 }

@@ -1,5 +1,5 @@
 import React from 'react'
-export default function ({ username }) {
+export default function ({ username,text }) {
     console.log(username);
     return (
         <>
@@ -17,7 +17,7 @@ export default function ({ username }) {
                         debitis?
                     </p>
                     <button className="mt-2 inline-flex cursor-pointer items-center text-sm font-semibold">
-                        View Profile →
+                    {text || visite} →
                     </button>
                 </div>
             </div>
