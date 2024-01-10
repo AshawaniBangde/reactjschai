@@ -96,7 +96,13 @@ https://github.com/acdlite/react-fiber-architecture
 What is a fiber?
 We're about to discuss the heart of React Fiber's architecture. Fibers are a much lower-level abstraction than application developers typically think about. If you find yourself frustrated in your attempts to understand it, don't feel discouraged. Keep trying and it will eventually make sense. (When you do finally get it, please suggest how to improve this section.)
 
+day-7 (seven day) tailwind and props
 
+props => properties(object)
 
+=>tailwind css => utility first framework
+=>npm install -D tailwindcss postcss autoprefixer ye depenpedeins or (-d)jo devloper ke liye kam aati hai.
+isliye ye dependies hai.
+=>npx tailwindcss init -p ....tailwind.config file bna ke deta hai
 
 
