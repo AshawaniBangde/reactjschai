@@ -90,7 +90,12 @@ day -6 virtual dom
 https://github.com/acdlite/react-fiber-architecture
 => React Fiber algorithm jo hai react fiber ke algooth ko impletment jrt hai virtual dom ko implment krne ke liye.
 => virtual dom hai abhi bhi but usko update krne vali algorithem hai vo fiber algorithem hai..
-=> 
+=> key features of react 1.pause ,2.abort,3.reuse work (important hai. for the interview question.)
+=> reconciliation= behind the seen virtual dom update hota that is called reconciliation. 
+
+What is a fiber?
+We're about to discuss the heart of React Fiber's architecture. Fibers are a much lower-level abstraction than application developers typically think about. If you find yourself frustrated in your attempts to understand it, don't feel discouraged. Keep trying and it will eventually make sense. (When you do finally get it, please suggest how to improve this section.)
+
 
 
 
