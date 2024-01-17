@@ -110,3 +110,15 @@ components ka code uthane ke liye
 
 => props = props,  componets ko bnata tha resuable,,,ek bar card bna liya usko bar bar use kr skte hai...
 => 
+
+
+day -> 8 react interview questions and Ans
+
+=> counter an prevcounter
+
+day -> 9 building react project
+
+
+
+
+
