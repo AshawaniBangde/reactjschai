@@ -101,7 +101,7 @@ day-7 (seven day) tailwind and props
 props => properties(object)
 
 =>tailwind css => utility first framework
-=>npm install -D tailwindcss postcss autoprefixer ye depenpedeins or (-d)jo devloper ke liye kam aati hai.
+=>npm install -D tailwindcss postcss autoprefixer ye depenpedeins or (-d)jo developer ke liye kam aati hai.
 isliye ye dependies hai.
 =>npx tailwindcss init -p ....tailwind.config file bna ke deta hai
 
@@ -121,5 +121,5 @@ day -> 9 building react project
 day -> 10 password generator
 
 
-
+hhh
 
